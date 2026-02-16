@@ -1,2 +1,19 @@
-# Neural-Nomads_multiclass-sentiment
-This project fine-tunes a pretrained BERT model using PyTorch for multiclass sentiment analysis. The Sp1786/multiclass-sentiment-analysis-dataset is analysed, trained for 10 epochs, evaluated using standard metrics, and deployed with an inference pipeline.
+# Transfer Learning with BERT
+
+## Dataset
+Multiclass Sentiment Analysis Dataset
+
+## Steps
+- Exploratory Data Analysis
+- BERT fine-tuning using PyTorch
+- Model evaluation
+- Inference pipeline
+
+## Model
+bert-base-uncased
+
+## Metrics
+Accuracy, Precision, Recall, F1-score (weighted)
+
+## How to Run
+Open the notebook in Google Colab and run all cells.
